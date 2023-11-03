@@ -1,0 +1,58 @@
+const input = `
+  John Doe
+123 Main Street
+City, State, ZIP
+Email: john.doe@example.com
+Phone: (123) 456-7890
+
+Objective:
+Results-driven and detail-oriented software engineer with 5+ years of experience in full-stack development. Seeking a challenging role that allows me to apply my expertise in creating scalable and efficient software solutions.
+
+Education:
+- Bachelor of Science in Computer Science
+  XYZ University
+  Graduated: May 20XX
+
+Skills:
+- Programming Languages: JavaScript, Python, Java
+- Frontend Development: React, Angular
+- Backend Development: Node.js, Express
+- Database Management: MongoDB, MySQL
+- DevOps: Docker, AWS, CI/CD
+- Agile Methodology
+
+Experience:
+Software Engineer
+ABC Tech, City, State
+June 20XX - Present
+- Designed and developed a real-time chat application using React and Node.js.
+- Collaborated with a cross-functional team to deliver high-quality software products.
+- Implemented test-driven development (TDD) practices to ensure code quality.
+- Improved system performance by optimizing database queries and reducing response times by 30%.
+
+Junior Software Developer
+DEF Solutions, City, State
+January 20XX - May 20XX
+- Assisted in the development of RESTful APIs using Express and MongoDB.
+- Participated in code reviews and debugging sessions to identify and resolve issues.
+- Contributed to the creation of automated test suites to improve code reliability.
+
+Projects:
+1. E-commerce Website
+   - Developed a full-fledged e-commerce website with user authentication, product listings, and payment processing using MERN stack.
+   - Implemented RESTful API endpoints for user registration and product management.
+   - Enhanced website performance by optimizing images and reducing load times.
+
+2. Chat Application
+   - Created a real-time chat application using WebSocket technology.
+   - Implemented features such as group chats, message history, and user authentication.
+   - Utilized React for the frontend and Node.js for the backend.
+
+Certifications:
+- AWS Certified Developer - Associate
+- Certified ScrumMaster (CSM)
+
+References:
+Available upon request
+
+  `
