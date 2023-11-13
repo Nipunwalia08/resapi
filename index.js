@@ -121,7 +121,7 @@ app.post('/return', async (req, res) => {
     try {
       const data = req.body;
       const title= data.title
-      const exp= data.exp
+      const exp= data.employmentHistory
       
   
       if (!data) {
